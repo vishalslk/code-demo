@@ -1,2 +1,2 @@
 # code-demo
-demo for learning github
+demo for learning github.
